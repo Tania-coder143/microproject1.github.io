@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "code": "COMP2140",
+    "title": "Systems Analysis & Project Management",
+    "semester": "Winter 2025",
+    "delivery": "In-class",
+    "instructor": "Youssef Rizk"
+  },
+  {
+    "id": 2,
+    "code": "COMP2139",
+    "title": "Advanced Object-Oriented Programming (Java)",
+    "semester": "Winter 2025",
+    "delivery": "In-class",
+    "instructor": "TBA"
+  },
+  {
+    "id": 3,
+    "code": "COMP1046",
+    "title": "Windows System Administration",
+    "semester": "Winter 2025",
+    "delivery": "In-class",
+    "instructor": "TBA"
+  },
+  {
+    "id": 4,
+    "code": "COMP1234",
+    "title": "Web Development Fundamentals",
+    "semester": "Fall 2024",
+    "delivery": "Hybrid",
+    "instructor": "John Smith"
+  },
+  {
+    "id": 5,
+    "code": "MATH1001",
+    "title": "Discrete Mathematics",
+    "semester": "Fall 2024",
+    "delivery": "Online",
+    "instructor": "Jane Doe"
+  },
+  {
+    "id": 6,
+    "code": "PSY0049",
+    "title": "Applications of Professional Psychology",
+    "semester": "Winter 2025",
+    "delivery": "In-class",
+    "instructor": "TBA"
+  }
+]
